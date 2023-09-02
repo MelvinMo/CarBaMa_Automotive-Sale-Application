@@ -1,6 +1,6 @@
 # CarBaMa-Automotive-Sale-Application
 
-"CarBaMa" is a software application designed and developed as the final project of the Software Engineering 1 undergraduate course. The project aimed to create a comprehensive automotive car sale application that encompasses various tools and ideas to provide a seamless user experience. The main focus of the course, by the way, was to develop an application based on the agile methodology, following the standard steps of the software development cycle.
+"CarBaMa" is a software application designed and developed as the final project of the Software Engineering 1 undergraduate course. The project aimed to create a comprehensive automotive car sale application that encompasses various tools and ideas to provide a seamless user experience. The main focus of the course, by the way, was to develop an application based on the waterfall model, following the standard steps of the software development cycle.
 
 The project began with a thorough requirements gathering phase to identify the needs and expectations of the application. We generated various documents, such as use cases, activity diagrams, class diagrams, sequences, and communication diagrams, to better understand the functional and non-functional requirements of the application.
 
